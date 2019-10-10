@@ -4,9 +4,30 @@ header {
 
 .background {
   background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg)
-    100%/100% no-repeat;
+    100%/cover no-repeat;
+  height: 560px;
 }
 
 .submit-button {
   font-size: 1rem;
+  border-width: 4px !important;
+  margin-right: 0 !important;
+}
+
+.getstarted-button {
+  font-size: 1rem;
+  border-radius: 5%;
+  margin-right: 0 !important;
+}
+
+.art-1 {
+  background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg) no-repeat;
+}
+
+.art-2 {
+
+}
+
+.art-3 {
+
 }
