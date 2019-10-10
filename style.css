@@ -1,5 +1,10 @@
+header {
+  height: 120px;
+}
+
 .background {
-  background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg) 100%/100% no-repeat;
+  background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg)
+    100%/100% no-repeat;
 }
 
 .submit-button {
