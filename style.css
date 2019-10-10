@@ -1,10 +1,6 @@
-header {
-  height: 120px;
-}
-
 .background {
   background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg)
-    100%/cover no-repeat;
+    100% / cover no-repeat;
   height: 560px;
 }
 
@@ -22,14 +18,37 @@ header {
 }
 
 .art-1 {
-  box-shadow: 5px 10px ;
-  background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg) no-repeat;
+  box-shadow: 5px 10px;
+  background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg)
+    no-repeat;
 }
 
 .art-2 {
-
 }
 
 .art-3 {
+}
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.gradient-bar {
+  height: 1rem;
+  background: #00ffad;
+  background: linear-gradient(
+    to right,
+    rgba(0, 255, 173, 1) 0%,
+    rgba(0, 217, 243, 1) 100%
+  );
+}
+
+.dolar-sign {
+  font-size: 1rem;
+  vertical-align: top;
+  line-height: 2;
+}
+
+.cost-font {
+  font-size: 3rem;
 }
