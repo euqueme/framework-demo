@@ -1,7 +1,7 @@
 .background {
   background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg)
     100% / cover no-repeat;
-  height: 560px;
+  height: 500px;
 }
 
 .submit-button {
@@ -19,25 +19,9 @@
   border-width: 2px !important;
 }
 
-.art-1 {
-  background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg)
-    0 0 / contain no-repeat;
-}
-
-.art-2 {
-  background: url(https://cu4.uicdn.net/6f8/60217baf43d52a457433378368935/webapp/mywebsite-product-card.jpg)
-    0 0 / contain no-repeat;
-}
-
-.art-3 {
-  background: url(https://cu4.uicdn.net/c46/926f7427920b4e7fe42bc97799480/webapp/vps-product-card.jpg)
-    0 0 / contain no-repeat;
-}
-
 .art-1,
 .art-2,
 .art-3 {
-  margin-top: -200px;
   border: 6px solid rgba(0, 0, 0, 0.2);
 }
 
@@ -75,4 +59,31 @@
   font-size: 4rem;
   outline-width: 0;
   margin-left: -5px;
+}
+
+@media screen and (min-width: 992px) {
+  .art-1 {
+    background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg)
+      0 0 / contain no-repeat;
+    margin-top: -200px;  
+  }
+
+  .art-2 {
+    background: url(https://cu4.uicdn.net/6f8/60217baf43d52a457433378368935/webapp/mywebsite-product-card.jpg)
+      0 0 / contain no-repeat;
+    margin-top: -200px;
+  }
+
+  .art-3 {
+    background: url(https://cu4.uicdn.net/c46/926f7427920b4e7fe42bc97799480/webapp/vps-product-card.jpg)
+      0 0 / contain no-repeat;
+    margin-top: -200px;
+  }
+
+  .article-text,
+  .art-1 h4,
+  .art-2 h4,
+  .art-3 h4 {
+    color: #001b41 !important;
+  }
 }
