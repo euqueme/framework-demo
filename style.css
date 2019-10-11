@@ -13,20 +13,38 @@
 .getstarted-button {
   font-size: 1rem;
   border-radius: 5px;
-  margin-right: 0 !important;
   height: 40px;
+  width: 250px;
+  margin: auto;
 }
 
 .art-1 {
-  box-shadow: 5px 10px;
-  background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg)
-    no-repeat;
+  background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg) 0 0 / contain no-repeat;
 }
 
 .art-2 {
+  background: url(https://cu4.uicdn.net/6f8/60217baf43d52a457433378368935/webapp/mywebsite-product-card.jpg) 0 0 / contain no-repeat;
 }
 
 .art-3 {
+  background: url(https://cu4.uicdn.net/c46/926f7427920b4e7fe42bc97799480/webapp/vps-product-card.jpg) 0 0 / contain no-repeat;
+}
+
+.art-1, 
+.art-2,
+.art-3 {
+  top: -200px;
+  border: 6px solid rgba(0, 0, 0, 0.2);
+}
+
+.art-1 p, 
+.art-2 p,
+.art-3 p {
+  line-height: 1.5;
+}
+
+.icon-ul {
+  width: 10px;
 }
 
 .cursor-pointer {
