@@ -21,23 +21,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/euqueme/using-bootstrap">
+  <a href="https://github.com/euqueme/framework-demo">
     <img src="img/mLogo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Using Bootstrap</h3>
+  <h3 align="center">Building a Framework</h3>
 
   <p align="center">
     This project is part of the Microverse CSS3 and HTML curriculum!
     <br />
-    <a href="https://github.com/euqueme/using-bootstrap"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/euqueme/framework-demo"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://euqueme.github.io/using-bootstrap/">View Demo</a>
+    <a href="https://euqueme.github.io/framework-demo">View Demo</a>
     ·
-    <a href="https://github.com/euqueme/using-bootstrap/issues">Report Bug</a>
+    <a href="https://github.com/euqueme/framework-demo/issues">Report Bug</a>
     ·
-    <a href="https://github.com/euqueme/using-bootstrap/issues">Request Feature</a>
+    <a href="https://github.com/euqueme/framework-demo/issues">Request Feature</a>
   </p>
 </p>
 
@@ -53,20 +53,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://euqueme.github.io/using-bootstrap/)
+[![Product Name Screen Shot][product-screenshot]](https://euqueme.github.io/framework-demo)
 
-This project is a prototype based on the https://www.newsweek.com/ page.
+This is a clone of the https://www.ionos.com/ page using our custom framework https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css
 
-Here are the objectives for this project:
-* Use as many Bootstrap classes as possible to re create this website
-	* Bootstrap has classes almost for everything: background, font-weight, color, position, display, grid (rows and cols), margin padding, height etc..
-	* I had to use a few clases only for the specifics: colors, font-family and also for hovering the elements.
+This is also part of the Odin project curriculum https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework
 
-This is also part of the Odin project curriculum https://www.theodinproject.com/courses/html5-and-css3/lessons/using-bootstrap
+<!-- ABOUT THE PROJECT -->
+## Instalation
+
+If you want to use our framework you can clone our repository or use this link in your HTML file: 
+https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css
 
 ### Built With
 This project was built using these technologies.
-* Bootstrap
+* [Our own Framework](https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css) 
 * HTML
 * CSS3
 * Stickler
@@ -78,30 +79,34 @@ This project was built using these technologies.
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see it here:  https://euqueme.github.io/using-bootstrap/
+You can see a project built with this framework here:  https://euqueme.github.io/framework-demo/
 
 <!-- CONTACT -->
 ## Contact
 
+María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
+<br />
+<br />
 María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
 
-Project Link: [https://github.com/euqueme/using-bootstrap)
+Project Link: [https://github.com/euqueme/framework-demo)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Microverse](https://www.microverse.org/)
 * [The Odin Project](https://www.theodinproject.com/)
 * [HTML Cheat Sheet](https://htmlcheatsheet.com/js/)
-* [Bootstrap Documentation](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [SASS documentation](https://sass-lang.com/)
+* [Our own Framework](https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css) 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/euqueme/using-bootstrap.svg?style=flat-square
-[contributors-url]: https://github.com/euqueme/using-bootstrap/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/euqueme/using-bootstrap.svg?style=flat-square
-[forks-url]: https://github.com/euqueme/using-bootstrap/network/members
-[stars-shield]: https://img.shields.io/github/stars/euqueme/using-bootstrap.svg?style=flat-square
-[stars-url]: https://github.com/euqueme/using-bootstrap/stargazers
-[issues-shield]: https://img.shields.io/github/issues/euqueme/using-bootstrap.svg?style=flat-square
-[issues-url]: https://github.com/euqueme/using-bootstrap/issues
-[product-screenshot]: img/Capture.PNG
+[contributors-shield]: https://img.shields.io/github/contributors/euqueme/framework-demo.svg?style=flat-square
+[contributors-url]: https://github.com/euqueme/framework-demo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/euqueme/framework-demo.svg?style=flat-square
+[forks-url]: https://github.com/euqueme/framework-demo/network/members
+[stars-shield]: https://img.shields.io/github/stars/euqueme/framework-demo.svg?style=flat-square
+[stars-url]: https://github.com/euqueme/framework-demo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/euqueme/framework-demo.svg?style=flat-square
+[issues-url]: https://github.com/euqueme/framework-demo/issues
+[product-screenshot]: img/screenshot.PNG
