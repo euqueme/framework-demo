@@ -1,11 +1,12 @@
 .background {
   background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg)
-    100% / cover no-repeat;
-  height: 500px;
+    50% 10% / 290% no-repeat;
+  height: 300px;
 }
 
 .bg-world {
-  background: url(https://cu2.uicdn.net/a9a/b95cc5035faa0533c5f0168d94128/frontend-applications-common/bg-map.svg) 100%/50% no-repeat;
+  background: url(https://cu2.uicdn.net/a9a/b95cc5035faa0533c5f0168d94128/frontend-applications-common/bg-map.svg)
+    100%/50% no-repeat;
 }
 
 .submit-button {
@@ -85,6 +86,12 @@ footer a:visited {
 }
 
 @media screen and (min-width: 992px) {
+  .background {
+    background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg)
+      100% / cover no-repeat;
+    height: 500px;
+  }
+
   .art-1 {
     background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg)
       0 0 / contain no-repeat;
@@ -105,7 +112,7 @@ footer a:visited {
   .art-3 {
     margin-top: -200px;
     background-color: #fff !important;
-    border: 6px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
 
   .article-text,
