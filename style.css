@@ -5,7 +5,7 @@
 }
 
 .bg-world {
-  background: url(https://cu2.uicdn.net/a9a/b95cc5035faa0533c5f0168d94128/frontend-applications-common/bg-map.svg) 100% no-repeat;
+  background: url(https://cu2.uicdn.net/a9a/b95cc5035faa0533c5f0168d94128/frontend-applications-common/bg-map.svg) 100%/50% no-repeat;
 }
 
 .submit-button {
@@ -65,11 +65,23 @@ article p {
 
 #articles-globe {
   overflow: scroll;
-  background-color: rgba(0,0,255,0);
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 #articles-globe article {
   min-width: 300px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer a:visited {
+  color: white;
 }
 
 @media screen and (min-width: 992px) {
