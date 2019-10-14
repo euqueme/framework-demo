@@ -4,6 +4,10 @@
   height: 500px;
 }
 
+.bg-world {
+  background: url(https://cu2.uicdn.net/a9a/b95cc5035faa0533c5f0168d94128/frontend-applications-common/bg-map.svg) 100% no-repeat;
+}
+
 .submit-button {
   font-size: 1rem;
   border-width: 4px !important;
@@ -22,12 +26,10 @@
 .art-1,
 .art-2,
 .art-3 {
-  border: 6px solid rgba(0, 0, 0, 0.2);
+  border: none;
 }
 
-.art-1 p,
-.art-2 p,
-.art-3 p {
+article p {
   line-height: 1.5;
 }
 
@@ -61,23 +63,37 @@
   margin-left: -5px;
 }
 
+#articles-globe {
+  overflow: scroll;
+  background-color: rgba(0,0,255,0);
+}
+
+#articles-globe article {
+  min-width: 300px;
+}
+
 @media screen and (min-width: 992px) {
   .art-1 {
     background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg)
       0 0 / contain no-repeat;
-    margin-top: -200px;  
   }
 
   .art-2 {
     background: url(https://cu4.uicdn.net/6f8/60217baf43d52a457433378368935/webapp/mywebsite-product-card.jpg)
       0 0 / contain no-repeat;
-    margin-top: -200px;
   }
 
   .art-3 {
     background: url(https://cu4.uicdn.net/c46/926f7427920b4e7fe42bc97799480/webapp/vps-product-card.jpg)
       0 0 / contain no-repeat;
+  }
+
+  .art-1,
+  .art-2,
+  .art-3 {
     margin-top: -200px;
+    background-color: #fff !important;
+    border: 6px solid rgba(0, 0, 0, 0.2);
   }
 
   .article-text,
@@ -85,5 +101,9 @@
   .art-2 h4,
   .art-3 h4 {
     color: #001b41 !important;
+  }
+
+  #articles {
+    background: none !important;
   }
 }
