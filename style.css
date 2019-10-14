@@ -28,7 +28,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: 'Overpass', sans-serif;
+  font-family: "Overpass", sans-serif;
 }
 
 .art-1,
@@ -98,7 +98,8 @@ footer a:visited {
 }
 
 button:hover {
-  transition: color .1s ease-out,background-color .1s ease-out,border-color .1s ease-out;
+  transition: color 0.1s ease-out, background-color 0.1s ease-out,
+    border-color 0.1s ease-out;
   background-color: #28cce8;
 }
 
@@ -106,7 +107,6 @@ button:hover {
   color: white;
   border-color: #28cce8;
 }
-
 
 @media screen and (min-width: 992px) {
   .background {
@@ -133,7 +133,7 @@ button:hover {
   .art-1,
   .art-2,
   .art-3 {
-    margin-top: -200px;
+    margin-top: -160px;
     background-color: #fff !important;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   }
