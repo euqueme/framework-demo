@@ -25,7 +25,7 @@
     <img src="img/mLogo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Building a Framework</h3>
+  <h3 align="center">Building with our Framework</h3>
 
   <p align="center">
     This project is part of the Microverse CSS3 and HTML curriculum!
@@ -79,7 +79,7 @@ This project was built using these technologies.
 <!-- LIVE VERSION -->
 ## Live version
 
-You can see a project built with this framework here:  https://euqueme.github.io/framework-demo/
+You can see the clone here:  https://euqueme.github.io/framework-demo/
 
 <!-- CONTACT -->
 ## Contact
