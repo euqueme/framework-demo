@@ -74,7 +74,6 @@ article p {
 #articles-globe {
   overflow: scroll;
   background-color: rgba(255, 255, 255, 0.5);
-  scrollbar-color: #28cce8 white;
 }
 
 #articles-globe article {
