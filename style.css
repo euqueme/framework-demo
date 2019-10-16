@@ -1,0 +1,139 @@
+.background {
+  background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg) 50% 10% / 290% no-repeat;
+  height: 300px;
+}
+
+.bg-world {
+  background: url(https://cu2.uicdn.net/a9a/b95cc5035faa0533c5f0168d94128/frontend-applications-common/bg-map.svg) 100%/50% no-repeat;
+}
+
+.submit-button {
+  font-size: 1rem;
+  border-width: 4px !important;
+  margin-right: 0 !important;
+}
+
+.getstarted-button {
+  font-size: 1rem;
+  border-radius: 3px;
+  height: 40px;
+  width: 250px;
+  margin: auto;
+  border-width: 2px !important;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Overpass", sans-serif;
+}
+
+.art-1,
+.art-2,
+.art-3 {
+  border: none;
+}
+
+article p {
+  line-height: 1.5;
+}
+
+.icon-ul {
+  width: 10px;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.gradient-bar {
+  height: 1rem;
+  background: #00ffad;
+  background: linear-gradient(to right, rgba(0, 255, 173, 1) 0%, rgba(0, 217, 243, 1) 100%);
+}
+
+.dolar-sign {
+  font-size: 1.5rem;
+  vertical-align: top;
+  line-height: 1.9;
+}
+
+.cost-font {
+  font-size: 4rem;
+  outline-width: 0;
+  margin-left: -5px;
+}
+
+#articles-globe {
+  overflow: scroll;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+#articles-globe article {
+  min-width: 300px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer a:visited {
+  color: inherit;
+}
+
+.hover:hover {
+  color: #28cce8 !important;
+}
+
+button:hover {
+  transition: color 0.1s ease-out, background-color 0.1s ease-out, border-color 0.1s ease-out;
+  background-color: #28cce8;
+}
+
+.getstarted-button:hover {
+  color: white;
+  border-color: #28cce8;
+}
+
+@media screen and (min-width: 992px) {
+  .background {
+    background: url(https://cu2.uicdn.net/4e8/62f2f672846036dcefbfa31c45acd/webapp/masthead-football-field.jpg) 100% / cover no-repeat;
+    height: 500px;
+  }
+
+  .art-1 {
+    background: url(https://cu4.uicdn.net/58f/7684a1e3446ab880dfb1f30fe6c7b/webapp/webhosting-product-card.jpg) 0 0 / contain no-repeat;
+  }
+
+  .art-2 {
+    background: url(https://cu4.uicdn.net/6f8/60217baf43d52a457433378368935/webapp/mywebsite-product-card.jpg) 0 0 / contain no-repeat;
+  }
+
+  .art-3 {
+    background: url(https://cu4.uicdn.net/c46/926f7427920b4e7fe42bc97799480/webapp/vps-product-card.jpg) 0 0 / contain no-repeat;
+  }
+
+  .art-1,
+  .art-2,
+  .art-3 {
+    margin-top: -160px;
+    background-color: #fff !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  .article-text,
+  .art-1 h4,
+  .art-2 h4,
+  .art-3 h4 {
+    color: #001b41 !important;
+  }
+
+  #articles {
+    background: none !important;
+  }
+}
