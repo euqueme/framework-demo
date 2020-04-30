@@ -91,7 +91,7 @@ You can see the clone here:  https://euqueme.github.io/framework-demo/
 <!-- AUTOMATED TEST -->
 ## Automated Test
 
-> There are not Automated Test for this project yet
+> There are no Automated Test for this project yet
 
 <!-- CONTACT -->
 ## Author
