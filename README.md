@@ -47,8 +47,10 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Live Version](#live-version)
-* [Contact](#contact)
+* [Usage](#usage)
+* [Automated Test](#automated-test)
+* [Author](#author)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -60,15 +62,9 @@ This is a clone of the https://www.ionos.com/ page using our custom framework ht
 
 This is also part of the Odin project curriculum https://www.theodinproject.com/courses/html5-and-css3/lessons/design-your-own-grid-based-framework
 
-<!-- ABOUT THE PROJECT -->
-## Instalation
-
-If you want to use our framework you can clone our repository or use this link in your HTML file: 
-https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css
-
 ### Built With
 This project was built using these technologies.
-* [Our own Framework](https://github.com/majovainilla/framework/blob/grid-branch/SCSS/main.css) 
+* [Our own Framework](https://github.com/euqueme/framework/blob/grid-branch/SCSS/main.css) 
 * HTML
 * CSS3
 * Stickler
@@ -77,20 +73,36 @@ This project was built using these technologies.
 * Notepad++
 * Prettier 
 
+<!-- ABOUT THE PROJECT -->
+## Usage
+
+If you want to use our framework you can use this link in your HTML file: 
+https://github.com/euqueme/framework/blob/grid-branch/SCSS/main.css
+
+You can take a look at the classes you can use [here](https://github.com/euqueme/framework)
+
 <!-- LIVE VERSION -->
 ## Live version
 
 You can see the clone here:  https://euqueme.github.io/framework-demo/
 
 <!-- CONTACT -->
-## Contact
+## Author
 
-María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
+👤 María José Reyes - [@majovainilla](https://github.com/majovainilla) - maria_reyes@me.com
 <br />
 <br />
-María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
+👤 María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
 
-Project Link: [https://github.com/euqueme/framework-demo)
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/euqueme/Blogger-Rails/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
