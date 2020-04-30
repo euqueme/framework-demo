@@ -88,6 +88,11 @@ You can take a look at the classes you can use [here](https://github.com/euqueme
 
 You can see the clone here:  https://euqueme.github.io/framework-demo/
 
+<!-- AUTOMATED TEST -->
+## Automated Test
+
+> There are not Automated Test for this project yet
+
 <!-- CONTACT -->
 ## Author
 
