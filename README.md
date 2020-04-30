@@ -81,6 +81,8 @@ https://github.com/euqueme/framework/blob/grid-branch/SCSS/main.css
 
 You can take a look at the classes you can use [here](https://github.com/euqueme/framework)
 
+![screenshot](img/framework-mockup.png)
+
 <!-- LIVE VERSION -->
 ## Live version
 
