@@ -105,7 +105,7 @@ You can see the clone here:  https://euqueme.github.io/framework-demo/
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/euqueme/Blogger-Rails/issues).
+Feel free to check the [issues page](https://github.com/euqueme/framework-demo/issues).
 
 ## Show your support
 
